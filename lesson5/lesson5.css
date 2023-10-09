@@ -1,0 +1,18 @@
+/* . taviad class-aar songoj avh */
+.bg-black{ 
+    padding: 10px;
+  background-color: black; 
+  color: aliceblue; 
+  text-align: center;
+}
+
+/* tag-aar songoj avh */
+a{
+    color: aliceblue;
+}
+/* # taviad id-aar songj avn */
+#page{
+   position: fixed;
+   bottom: 0px;
+   width: 100%;
+}

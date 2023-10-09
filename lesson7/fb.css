@@ -1,0 +1,14 @@
+.top{
+    background-color: blueviolet;
+    padding: 15px;
+}
+.left{
+    background-color: yellow;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.btwn{
+    background-color: aqua;
+
+}

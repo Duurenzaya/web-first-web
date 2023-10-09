@@ -1,0 +1,53 @@
+.top{
+    background-color: aqua;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left{
+    background-color: pink;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.right{
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.title{
+    display: flex;
+    height: 90vh;
+
+}
+.filterh{
+    background-color: blueviolet;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+.videos{
+    background-attachment: blue;
+    height: 90vh;
+    display: flex;
+    justify-content: space-around;
+
+}
+.img{
+  background-color: aliceblue;
+   width: 360px;
+   height: 290px;
+   display: flex;
+   flex-direction: column;
+}
+
+.content{
+    width: 100%;
+    object-fit: fill;
+}
